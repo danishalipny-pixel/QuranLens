@@ -1,0 +1,519 @@
+[
+  {
+    "surahNumber": 1,
+    "ayahNumber": 1,
+    "arabicText": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "englishTranslation": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "بِسْمِ", "transliteration": "bismi", "english": "In the name", "urdu": "نام سے", "grammar": "Preposition + Noun" },
+      { "word": "اللَّهِ", "transliteration": "Allahi", "english": "of Allah", "urdu": "اللہ کے", "grammar": "Proper Noun" },
+      { "word": "الرَّحْمَٰنِ", "transliteration": "ar-Rahmani", "english": "the Entirely Merciful", "urdu": "بڑا مہربان", "grammar": "Adjective (Intensive)" },
+      { "word": "الرَّحِيمِ", "transliteration": "ar-Rahimi", "english": "the Especially Merciful", "urdu": "نہایت رحم والا", "grammar": "Adjective (Continuous)" }
+    ],
+    "context": {
+      "surahContext": "The Basmalah serves as the divine opening invocation of the Quran and the preface to 113 of its 114 chapters.",
+      "historicalBackground": "Revealed as the supreme formula consecrating human intentionality, reminding humans to align every endeavor with compassion."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir (Abridged)",
+      "content": "Ar-Rahman and Ar-Rahim are two names derived from Rahmah (mercy). Ar-Rahman is more intensive than Ar-Rahim, encompassing all creation in worldly existence, whereas Ar-Rahim is specifically bestowed upon the faithful."
+    },
+    "simpleExplanation": "We begin everything in life by remembering God, whose primary characterization is infinite compassion and loving mercy.",
+    "scientificPerspective": {
+      "hasConnection": false,
+      "concept": "Theology & Consciousness",
+      "modernExplanation": "Modern cognitive psychology observes that cultivating intentional gratitude and mindfulness before undertaking tasks improves emotional regulation and executive focus.",
+      "sources": [],
+      "possibleReflection": "No direct physical scientific connection is claimed for this verse. It functions as an invocation of ethical intentionality and spiritual consciousness.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation and are not technical science textbooks."
+    },
+    "realWorldExample": "Like taking a deep breath of conscious calm and compassionate purpose before starting an exam, cooking a meal, or entering a meeting.",
+    "lifeLessons": [
+      "Begin every meaningful task with pure intentionality",
+      "Prioritize compassion and empathy in communication",
+      "Acknowledge dependence upon the Sustainer of existence"
+    ],
+    "reflectionQuestion": "How would our daily interactions shift if we truly began each task with active compassion?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/001001.mp3"
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 2,
+    "arabicText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "englishTranslation": "[All] praise is [due] to Allah, Lord of the worlds -",
+    "englishSource": "Sahih International",
+    "urduTranslation": "سب تعریفیں اللہ ہی کے لیے ہیں جو تمام جہانوں کا پالنے والا ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "الْحَمْدُ", "transliteration": "al-hamdu", "english": "All praise", "urdu": "تمام تعریفیں", "grammar": "Definite Noun" },
+      { "word": "لِلَّهِ", "transliteration": "lillahi", "english": "is for Allah", "urdu": "اللہ کے لیے ہیں", "grammar": "Preposition + Proper Noun" },
+      { "word": "رَبِّ", "transliteration": "rabbi", "english": "Lord / Sustainer", "urdu": "پالنے والا", "grammar": "Noun" },
+      { "word": "الْعَالَمِينَ", "transliteration": "al-'alamina", "english": "of the worlds", "urdu": "تمام جہانوں کا", "grammar": "Plural Noun" }
+    ],
+    "context": {
+      "surahContext": "The inaugural declaration of praise in the Opening Chapter.",
+      "historicalBackground": "Taught by the Prophet as the cornerstone of contemplative gratitude in prayer."
+    },
+    "tafsir": {
+      "source": "Tafsir Al-Qurtubi",
+      "content": "Al-Hamd expresses both gratitude (Shukr) and praise for intrinsic perfection. Rabb signifies the One who nurtures, sustains, and guides creation gradually toward its fulfillment. Al-'Alamin encompasses all classes of existences."
+    },
+    "simpleExplanation": "Every element of beauty, goodness, and sustenance across all realms belongs fundamentally to the One Creator who continuously nurtures all beings.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Multifaceted Ecosystems & Cosmic Web",
+      "modernExplanation": "Modern ecology and astrophysics show that existence is organized into multiple interconnected domains ('worlds'): microbial biomes, marine ecosystems, planetary ecospheres, stellar systems, and supercluster cosmic webs.",
+      "sources": [
+        { "name": "Nature Ecology & Evolution", "url": "https://nature.com", "type": "Academic Journal" },
+        { "name": "NASA Astrophysics", "url": "https://nasa.gov", "type": "Space Agency" }
+      ],
+      "possibleReflection": "From a scientific perspective, readers note that the plural 'al-'alamin' (the worlds/realms) reflects the staggering multiplicity of scales in nature, from quantum micro-worlds to billions of galaxies.",
+      "educationalNotice": "Reflective perspective. Quranic verses invite awe toward cosmic diversity; this is not a technical taxonomy."
+    },
+    "realWorldExample": "Just as a garden thrives because sunlight, soil microbes, pollinators, and rain collaborate in harmony, all systems rely on sustained balance.",
+    "lifeLessons": [
+      "Cultivate genuine gratitude for visible and unseen bounties",
+      "Respect all dimensions of life and ecological balance",
+      "Remember that human life is one small part of an immense cosmic family"
+    ],
+    "reflectionQuestion": "What 'world' around you today (your health, natural surroundings, social circle) evokes genuine gratitude?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/001002.mp3"
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 5,
+    "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "englishTranslation": "It is You we worship and You we ask for help.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "إِيَّاكَ", "transliteration": "Iyyaka", "english": "You alone", "urdu": "تجھ ہی کو", "grammar": "Object Pronoun" },
+      { "word": "نَعْبُدُ", "transliteration": "na'budu", "english": "we worship", "urdu": "ہم عبادت کرتے ہیں", "grammar": "Present Verb (1st Plural)" },
+      { "word": "وَإِيَّاكَ", "transliteration": "wa-iyyaka", "english": "and You alone", "urdu": "اور تجھ ہی سے", "grammar": "Conjunction + Pronoun" },
+      { "word": "نَسْتَعِينُ", "transliteration": "nasta'in", "english": "we seek help", "urdu": "ہم مدد مانگتے ہیں", "grammar": "Present Verb (1st Plural)" }
+    ],
+    "context": {
+      "surahContext": "The central pivot of Al-Fatihah, shifting from third-person description of God to intimate first-person direct address.",
+      "historicalBackground": "Described in a Hadith Qudsi as the exact halfway dividing point of prayer between the Creator and the servant."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "Placing the object before the verb ('Iyyaka na'budu') signifies grammatical exclusivity (Hasr): worship and seeking ultimate aid are directed solely to the One, freeing human consciousness from subservience to worldly tyrannies."
+    },
+    "simpleExplanation": "We free ourselves from fear and idolatry by dedicating our devotion solely to God and seeking our ultimate support from Him.",
+    "scientificPerspective": {
+      "hasConnection": false,
+      "concept": "Psychological Autonomy & Spiritual Focus",
+      "modernExplanation": "No physical empirical science connection is claimed for this verse. In cognitive psychology, having a singular internal moral anchor reduces cognitive fragmentation.",
+      "sources": [],
+      "possibleReflection": "No direct scientific connection is being claimed for this verse. It addresses spiritual liberation and moral fidelity.",
+      "educationalNotice": "Not applicable to empirical science."
+    },
+    "realWorldExample": "Focusing your dedication on a singular noble truth frees you from being swayed by every passing trend or social pressure.",
+    "lifeLessons": [
+      "Do not enslave your self-worth to societal approval",
+      "Combine earnest personal effort with prayer for divine assistance",
+      "Speak collectively ('we worship') to embody community solidarity"
+    ],
+    "reflectionQuestion": "What worldly distractions or anxieties can you surrender today to find internal clarity?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+  },
+  {
+    "surahNumber": 2,
+    "ayahNumber": 255,
+    "arabicText": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "englishTranslation": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "اللہ، جس کے سوا کوئی معبود نہیں، وہ ہمیشہ زندہ رہنے والا اور سب کو سنبھالنے والا ہے۔ نہ اسے اونگھ آتی ہے نہ نیند۔ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، اسی کا ہے۔ کون ہے جو اس کی اجازت کے بغیر اس کے حضور سفارش کر سکے؟ وہ جانتا ہے جو کچھ بندوں کے سامنے ہے اور جو کچھ ان کے پیچھے ہے۔ اور وہ اس کے علم میں سے کسی چیز کا احاطہ نہیں کر سکتے مگر جتنا وہ چاہے۔ اس کی کرسی آسمانوں اور زمین کو گھیرے ہوئے ہے اور ان کی حفاظت اس کو نہیں تھکاتی اور وہ سب سے بلند اور بہت عظمت والا ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "اللَّهُ", "transliteration": "Allahu", "english": "Allah", "urdu": "اللہ", "grammar": "Proper Noun" },
+      { "word": "لَا إِلَٰهَ", "transliteration": "la ilaha", "english": "there is no god", "urdu": "کوئی معبود نہیں", "grammar": "Negation + Noun" },
+      { "word": "إِلَّا هُوَ", "transliteration": "illa huwa", "english": "except Him", "urdu": "سوائے اس کے", "grammar": "Exceptive + Pronoun" },
+      { "word": "الْحَيُّ", "transliteration": "al-Hayyu", "english": "the Ever-Living", "urdu": "ہمیشہ زندہ", "grammar": "Noun" },
+      { "word": "الْقَيُّومُ", "transliteration": "al-Qayyumu", "english": "the Sustainer of all", "urdu": "سب کو قائم رکھنے والا", "grammar": "Intensive Noun" }
+    ],
+    "context": {
+      "surahContext": "Widely known as Ayat al-Kursi (The Verse of the Throne), regarded as the greatest single verse in the Quran for theological depth.",
+      "historicalBackground": "Recited for divine protection, peace of mind, and contemplation of supreme sovereignty."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "This verse contains ten independent theological sentences, declaring eternal existence (Al-Hayy), self-subsistence and continuous sustaining of all cosmos (Al-Qayyum), complete transcendence above biological fatigue, and absolute knowledge encompassing past and future."
+    },
+    "simpleExplanation": "The Creator is boundless, never tires, knows all reality, holds the entire universe in continuous order without exertion, and is above all limitation.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Cosmic Thermodynamics & Dynamic Equilibrium",
+      "modernExplanation": "Modern cosmology describes our observable universe as spanning roughly 93 billion light-years with trillions of galaxies governed by fine-tuned fundamental constants (gravity, electromagnetism, nuclear forces). Entropy naturally increases in physical systems, requiring constant energy input to sustain organized systems.",
+      "sources": [
+        { "name": "Scientific American: The Fine-Tuned Universe", "url": "https://scientificamerican.com", "type": "Science Publication" }
+      ],
+      "possibleReflection": "While modern physics investigates physical constants and conservation laws, readers reflect that the Quran identifies the continuous sustaining power (Al-Qayyum) as divine, transcending physical entropy and fatigue.",
+      "educationalNotice": "Metaphysical reflection on divine sustaining power; not a physics derivation."
+    },
+    "realWorldExample": "While human beings exhaust their energy and must sleep after a few hours of exertion, the gravitational and physical balance of trillions of stars proceeds ceaselessly.",
+    "lifeLessons": [
+      "Find peace knowing the ultimate Protector never sleeps or forgets",
+      "Practice intellectual humility: human knowledge is a tiny fraction of reality",
+      "Release excessive anxiety over what lies outside your control"
+    ],
+    "reflectionQuestion": "How does meditating on God's tireless preservation of the universe help ease your personal burdens?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002255.mp3"
+  },
+  {
+    "surahNumber": 21,
+    "ayahNumber": 30,
+    "arabicText": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+    "englishTranslation": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing? Then will they not believe?",
+    "englishSource": "Sahih International",
+    "urduTranslation": "کیا کافروں نے نہیں دیکھا کہ آسمان اور زمین آپس میں ملے ہوئے تھے تو ہم نے ان کو جدا کیا اور ہم نے پانی سے ہر جاندار چیز کو پیدا کیا۔ تو کیا وہ پھر بھی ایمان نہیں لاتے؟",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "أَوَلَمْ يَرَ", "transliteration": "awalam yara", "english": "Have they not seen", "urdu": "کیا انہوں نے نہیں دیکھا", "grammar": "Question + Verb" },
+      { "word": "السَّمَاوَاتِ", "transliteration": "as-samawati", "english": "the heavens", "urdu": "آسمانوں کو", "grammar": "Plural Noun" },
+      { "word": "وَالْأَرْضَ", "transliteration": "wal-arda", "english": "and the earth", "urdu": "اور زمین کو", "grammar": "Conjunction + Noun" },
+      { "word": "كَانَتَا", "transliteration": "kanata", "english": "were both", "urdu": "وہ دونوں تھیں", "grammar": "Dual Verb" },
+      { "word": "رَتْقًا", "transliteration": "ratqan", "english": "a joined entity", "urdu": "ملی ہوئی", "grammar": "Noun" },
+      { "word": "فَفَتَقْنَاهُمَا", "transliteration": "fafataqnahuma", "english": "then We separated them", "urdu": "پھر ہم نے ان کو جدا کیا", "grammar": "Verb + Pronoun" },
+      { "word": "وَجَعَلْنَا", "transliteration": "wa-ja'alna", "english": "and We made", "urdu": "اور ہم نے بنایا", "grammar": "Verb + 1st Plural" },
+      { "word": "مِنَ الْمَاءِ", "transliteration": "mina al-ma'i", "english": "from water", "urdu": "پانی سے", "grammar": "Preposition + Noun" },
+      { "word": "كُلَّ شَيْءٍ حَيٍّ", "transliteration": "kulla shay'in hayyin", "english": "every living thing", "urdu": "ہر زندہ چیز کو", "grammar": "Noun Phrase" }
+    ],
+    "context": {
+      "surahContext": "Surah Al-Anbiya focuses on cosmic signs, the legacy of prophets, and existential accountability.",
+      "historicalBackground": "Revealed in Mecca, directly challenging listeners to ponder the origin of the cosmos and the foundational elements of life."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "'Ratq' means stitched or joined together in one continuous mass. 'Fataq' signifies sundering or uncoupling. Allah separated the heavens from the earth and sent down rain to bring forth biological vitality."
+    },
+    "simpleExplanation": "The universe was once a single cohesive origin before diversifying, and water is the foundational liquid matrix for every living cell.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Cosmic Singularity & Cellular Cytoplasm Biochemistry",
+      "modernExplanation": "In modern astrophysics, the Big Bang theory posits that approximately 13.8 billion years ago, matter and energy expanded from an extremely dense, hot primordial state. In cellular biology, water constitutes 70% to 90% of cellular mass (cytosol/cytoplasm); biochemical metabolic reactions universally require an aqueous solvent.",
+      "sources": [
+        { "name": "NASA Science: Big Bang Cosmology", "url": "https://science.nasa.gov", "type": "Space Agency" },
+        { "name": "Molecular Biology of the Cell (Alberts et al.)", "url": "https://ncbi.nlm.nih.gov", "type": "Academic Textbook" }
+      ],
+      "possibleReflection": "Modern science describes both the unified origin of cosmic matter and the universal aquatic basis of life. Some readers see a possible conceptual harmony between 'ratq/fataq' and cosmic expansion, and the explicit assertion that living organisms are fundamentally composed of water.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation and are not technical science textbooks."
+    },
+    "realWorldExample": "Every single cell in your body—from neurons to skin—is filled with water; without it, cellular metabolism ceases instantly.",
+    "lifeLessons": [
+      "Water is precious; never waste it even when abundant",
+      "Contemplating nature leads to intellectual humility",
+      "All creation shares an underlying unity and interdependence"
+    ],
+    "reflectionQuestion": "How does knowing that every living creature is linked by water change the way you care for nature?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/021030.mp3"
+  },
+  {
+    "surahNumber": 23,
+    "ayahNumber": 14,
+    "arabicText": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ ۚ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+    "englishTranslation": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "پھر ہم نے اس نطفے کو لوتھڑا بنا دیا، پھر اس لوتھڑے کو بوٹی کی شکل دی، پھر اس بوٹی سے ہڈیاں بنائیں، پھر ہڈیوں پر گوشت چڑھایا، پھر اسے ایک دوسری صورت میں بنا کھڑا کیا۔ سو اللہ بڑا ہی برکت والا ہے جو سب سے بہترین پیدا کرنے والا ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "ثُمَّ خَلَقْنَا", "transliteration": "thumma khalaqna", "english": "Then We made", "urdu": "پھر ہم نے بنایا", "grammar": "Conjunction + Verb" },
+      { "word": "النُّطْفَةَ", "transliteration": "an-nutfata", "english": "the sperm-drop", "urdu": "نطفے کو", "grammar": "Definite Noun" },
+      { "word": "عَلَقَةً", "transliteration": "'alaqatan", "english": "into a clinging clot", "urdu": "لوتھڑا", "grammar": "Indefinite Noun" },
+      { "word": "فَخَلَقْنَا", "transliteration": "fakhalaqna", "english": "and We made", "urdu": "پھر ہم نے بنا دی", "grammar": "Verb" },
+      { "word": "الْعَلَقَةَ", "transliteration": "al-'alaqata", "english": "the clinging clot", "urdu": "اس لوتھڑے کو", "grammar": "Definite Noun" },
+      { "word": "مُضْغَةً", "transliteration": "mudghatan", "english": "a chewed-like lump", "urdu": "بوٹی", "grammar": "Indefinite Noun" },
+      { "word": "عِظَامًا", "transliteration": "'izaman", "english": "bones", "urdu": "ہڈیاں", "grammar": "Plural Noun" },
+      { "word": "لَحْمًا", "transliteration": "lahman", "english": "with flesh (muscle)", "urdu": "گوشت", "grammar": "Noun" }
+    ],
+    "context": {
+      "surahContext": "Surah Al-Mu'minun begins by outlining traits of successful believers, then reflects on human creation to ground moral purpose.",
+      "historicalBackground": "Revealed in Mecca, illustrating sequential developmental phases of human life from conception to conscious maturity."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "Sequential metamorphosis: the fertilized drop becomes 'Alaqah (hanging/clinging substance), then Mudghah (resembling a small bite-sized piece with ridges), then hard skeletal structure is formed and clothed with muscular tissue, before breathing in the spirit."
+    },
+    "simpleExplanation": "Human life develops through precise, wonderful anatomical stages before emerging as a conscious person with faculties of thought and action.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Embryogenesis, Blastocyst Implantation & Myogenesis",
+      "modernExplanation": "Modern embryology charts embryonic development: fertilization yields a blastocyst that implants (clings) into the endometrium around day 6-10. During week 4, somites develop along the neural tube, producing a segmented dorsal contour resembling indentations on a chewed morsel. Chondrification forms cartilage precursors (bones) before surrounding muscular myoblasts differentiate into skeletal muscle tissue.",
+      "sources": [
+        { "name": "The Developing Human (Keith L. Moore)", "url": "https://elsevier.com", "type": "Medical Textbook" },
+        { "name": "Langman's Medical Embryology", "url": "https://lww.com", "type": "Medical Textbook" }
+      ],
+      "possibleReflection": "From a scientific perspective, modern medical embryologists have observed that the sequential Arabic terminology ('alaqah' for clinging embryo, 'mudghah' for segmented somite stage, 'izam' for cartilage skeleton, and 'lahm' for muscle envelopment) correlates well with macroscopic morphological phases in prenatal development.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation of life's sacred journey and are not medical manuals."
+    },
+    "realWorldExample": "Just as an architect first erects the steel scaffolding before installing the exterior walls, the human body develops foundational cartilage before muscles migrate and encase it.",
+    "lifeLessons": [
+      "Every human life is a masterfully crafted gift of immense value",
+      "Growth requires patient, sequential stages; do not rush development",
+      "Treat all people with dignity, knowing their sacred origins"
+    ],
+    "reflectionQuestion": "How does understanding the delicate precision of your creation inspire you to honor your health and purpose?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/023014.mp3"
+  },
+  {
+    "surahNumber": 51,
+    "ayahNumber": 47,
+    "arabicText": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+    "englishTranslation": "And the heaven We constructed with strength, and indeed, We are [its] expander.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "اور آسمان کو ہم نے اپنے دستِ قدرت سے بنایا اور بے شک ہم وسعت دینے والے ہیں۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "وَالسَّمَاءَ", "transliteration": "was-sama'a", "english": "And the heaven", "urdu": "اور آسمان کو", "grammar": "Conjunction + Noun" },
+      { "word": "بَنَيْنَاهَا", "transliteration": "banaynaha", "english": "We built it", "urdu": "ہم نے اسے بنایا", "grammar": "Verb + Pronoun" },
+      { "word": "بِأَيْدٍ", "transliteration": "bi-aydin", "english": "with strength / power", "urdu": "قوت و قدرت سے", "grammar": "Preposition + Noun" },
+      { "word": "وَإِنَّا", "transliteration": "wa-inna", "english": "and indeed We", "urdu": "اور بے شک ہم", "grammar": "Conjunction + Particle" },
+      { "word": "لَمُوسِعُونَ", "transliteration": "lamusi'una", "english": "are surely expanders", "urdu": "وسعت دینے والے ہیں", "grammar": "Particle + Active Participle Plural" }
+    ],
+    "context": {
+      "surahContext": "Surah Adh-Dhariyat addresses cosmic signs, divine generosity, and historical lessons.",
+      "historicalBackground": "Revealed in Mecca, calling human observers to lift their eyes toward the vast canopy of the celestial dome."
+    },
+    "tafsir": {
+      "source": "Tafsir Al-Tabari & Ibn Kathir",
+      "content": "'Musi'un' stems from the root W-S-' meaning vastness, expansion, and possessing boundless capacity. Classical scholars interpreted it as having made the heavens vast with ample space and provisions; modern commentators observe its active participle implies ongoing expansion."
+    },
+    "simpleExplanation": "The celestial cosmos was crafted with supreme majesty and endowed with boundless vastness and expansion.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Metric Expansion of Space & Hubble-Lemaître Law",
+      "modernExplanation": "In modern astrophysics (Edwin Hubble 1929, Cosmic Microwave Background, Planck satellite data), the space between non-gravitationally bound galaxy clusters is continuously expanding. The rate of expansion is quantified by the Hubble constant.",
+      "sources": [
+        { "name": "NASA Hubble Space Telescope", "url": "https://nasa.gov", "type": "Space Agency" },
+        { "name": "Nature Astronomy", "url": "https://nature.com", "type": "Academic Journal" }
+      ],
+      "possibleReflection": "Some readers and modern scholars see a possible connection between the active participle 'musi'un' (literally: those who expand/widen) and the scientific discovery that the physical universe is in an ongoing state of metric expansion.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation of cosmic wonder and are not technical mathematical equations."
+    },
+    "realWorldExample": "Like inflating a balloon where polka dots drawn on the surface move further apart from each other as the rubber stretches.",
+    "lifeLessons": [
+      "Expand your own heart, compassion, and mind as you learn",
+      "Contemplate the awe-inspiring scale of the universe to maintain humility",
+      "Recognize that human problems are small within the vastness of God's cosmos"
+    ],
+    "reflectionQuestion": "When you look up at the night sky, how does the thought of an expanding cosmos influence your daily perspective?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/051047.mp3"
+  },
+  {
+    "surahNumber": 55,
+    "ayahNumber": 19,
+    "arabicText": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ • بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+    "englishTranslation": "He released the two seas, meeting [side by side]; Between them is a barrier [barzakh] which neither transgresses.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "اس نے دو سمندر رواں کیے جو باہم ملتے ہیں۔ ان دونوں کے درمیان ایک آڑ ہے جس سے وہ تجاوز نہیں کرتے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "مَرَجَ", "transliteration": "maraja", "english": "He released / let free", "urdu": "اس نے رواں کیا", "grammar": "Past Verb" },
+      { "word": "الْبَحْرَيْنِ", "transliteration": "al-bahrayni", "english": "the two seas", "urdu": "دو سمندروں کو", "grammar": "Dual Noun" },
+      { "word": "يَلْتَقِيَانِ", "transliteration": "yaltaqiyani", "english": "they meet", "urdu": "وہ باہم ملتے ہیں", "grammar": "Dual Present Verb" },
+      { "word": "بَيْنَهُمَا", "transliteration": "baynahuma", "english": "between them", "urdu": "ان دونوں کے درمیان", "grammar": "Preposition + Pronoun" },
+      { "word": "بَرْزَخٌ", "transliteration": "barzakhun", "english": "is a barrier", "urdu": "ایک آڑ / پردہ ہے", "grammar": "Indefinite Noun" },
+      { "word": "لَا يَبْغِيَانِ", "transliteration": "la yabghiyani", "english": "neither transgresses", "urdu": "وہ حد سے نہیں بڑھتے", "grammar": "Negative Particle + Verb" }
+    ],
+    "context": {
+      "surahContext": "Surah Ar-Rahman catalogs divine bounties across terrestrial, oceanic, and celestial realms.",
+      "historicalBackground": "Revealed to encourage deep contemplation of the harmonious co-existence of contrasting elements on Earth."
+    },
+    "tafsir": {
+      "source": "Tafsir Al-Jalalayn & Ibn Kathir",
+      "content": "The meeting of distinct water bodies (fresh and salty, or two adjacent seas) where an unseen natural partition prevents one from overpowering the characteristic qualities of the other."
+    },
+    "simpleExplanation": "Adjacent bodies of water meet yet maintain their distinct properties due to natural barriers of density and salinity.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Oceanic Density Fronts, Haloclines & Pycnoclines",
+      "modernExplanation": "In physical oceanography, adjacent water bodies with differing temperatures and salinities (such as Mediterranean water and Atlantic water at Gibraltar) meet at frontal zones known as pycnoclines or haloclines. Surface tension, differing densities, and Coriolis forces prevent immediate rapid homogenization, creating a measurable transition boundary that maintains each body's integrity over long distances.",
+      "sources": [
+        { "name": "Principles of Physical Oceanography", "url": "https://noaa.gov", "type": "Oceanographic Institute" }
+      ],
+      "possibleReflection": "Modern science describes how salinity and density gradients act as natural physical barriers ('barzakh'). Some readers see a clear, intuitive parallel between the observable phenomena of non-mixing oceanic interfaces and the Quranic description of two seas meeting without exceeding boundaries.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation and are not technical science textbooks."
+    },
+    "realWorldExample": "Like pouring oil and water or cold fresh river water into warm salty sea water: their differing densities keep them visibly distinct before slow mixing occurs.",
+    "lifeLessons": [
+      "Respect healthy boundaries in relationships and communities",
+      "Diverse perspectives can coexist peacefully side by side without erasing each other's identity",
+      "Appreciate the invisible balances that keep ecosystems stable"
+    ],
+    "reflectionQuestion": "Where in your life do healthy boundaries help you maintain balance and peace?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/055019.mp3"
+  },
+  {
+    "surahNumber": 57,
+    "ayahNumber": 25,
+    "arabicText": "وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ",
+    "englishTranslation": "And We sent down iron, wherein is great military might and benefits for the people.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "اور ہم نے لوہا اتارا جس میں شدید جنگی قوت اور لوگوں کے لیے بہت سے فائدے ہیں۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "وَأَنزَلْنَا", "transliteration": "wa-anzalna", "english": "And We sent down", "urdu": "اور ہم نے اتارا", "grammar": "Conjunction + Past Verb" },
+      { "word": "الْحَدِيدَ", "transliteration": "al-hadida", "english": "iron", "urdu": "لوہے کو", "grammar": "Definite Noun" },
+      { "word": "فِيهِ", "transliteration": "fihi", "english": "in it is", "urdu": "اس میں ہے", "grammar": "Preposition + Pronoun" },
+      { "word": "بَأْسٌ شَدِيدٌ", "transliteration": "ba'sun shadidun", "english": "great military might", "urdu": "سخت قوت / ہیبت", "grammar": "Noun + Adjective" },
+      { "word": "وَمَنَافِعُ", "transliteration": "wa-manafi'u", "english": "and benefits", "urdu": "اور بہت فائدے", "grammar": "Conjunction + Plural Noun" },
+      { "word": "لِلنَّاسِ", "transliteration": "lin-nasi", "english": "for humanity", "urdu": "لوگوں کے لیے", "grammar": "Preposition + Noun" }
+    ],
+    "context": {
+      "surahContext": "Surah Al-Hadid is named after Iron and addresses societal justice, technological capability, and moral stewardship of power.",
+      "historicalBackground": "Revealed in Medina, guiding the nascent community to balance ethical justice (the Balance) with protective strength (Iron)."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir & Al-Qurtubi",
+      "content": "Allah created and provided iron as an instrument of civil engineering, tools, agriculture, architecture, and defense against tyranny. Classical scholars debated whether 'anzalna' meant direct physical descent or creating/bestowing from above."
+    },
+    "simpleExplanation": "Iron is a fundamental element endowed with immense structural strength and civilizational utility, essential for human industry, agriculture, and protection.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Supernova Nucleosynthesis & Planetary Accretion",
+      "modernExplanation": "In modern astrophysics and nuclear physics, iron-56 cannot be generated by normal stellar fusion inside small or medium stars because fusion of iron absorbs energy rather than releasing it. Heavy iron elements are synthesized during stellar core collapse and cataclysmic supernova explosions of massive dying stars, which disperses iron debris across space to later coalesce into planets.",
+      "sources": [
+        { "name": "NASA Goddard Astrophysics: Origin of Elements", "url": "https://imagine.gsfc.nasa.gov", "type": "Space Agency" },
+        { "name": "Cambridge University Press: Stellar Nucleosynthesis", "url": "https://cambridge.org", "type": "Academic Press" }
+      ],
+      "possibleReflection": "Modern science describes that terrestrial iron originated from outside Earth through stellar nucleosynthesis in supernovae and meteorite bombardment. Some readers see a possible connection with the phrasing 'We sent down iron' (anzalna al-hadid).",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation of divine provision and are not technical metallurgical treatises."
+    },
+    "realWorldExample": "Without iron, modern bridges, railways, and buildings could not stand, and human blood could not carry oxygen to cells through hemoglobin.",
+    "lifeLessons": [
+      "Use strength and technology ethically to protect the vulnerable, not oppress",
+      "Steward natural resources responsibly for the common good",
+      "Reflect on how microscopic chemistry connects directly to planetary survival"
+    ],
+    "reflectionQuestion": "How can you use your personal strengths and resources to build and protect rather than harm?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/057025.mp3"
+  },
+  {
+    "surahNumber": 94,
+    "ayahNumber": 6,
+    "arabicText": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "englishTranslation": "Indeed, with hardship [will be] ease.",
+    "englishSource": "Sahih International",
+    "urduTranslation": "بے شک تنگی کے ساتھ آسانی ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "إِنَّ", "transliteration": "Inna", "english": "Indeed", "urdu": "بے شک", "grammar": "Emphatic Particle" },
+      { "word": "مَعَ", "transliteration": "ma'a", "english": "with", "urdu": "ساتھ", "grammar": "Preposition" },
+      { "word": "الْعُسْرِ", "transliteration": "al-'usri", "english": "the hardship", "urdu": "تنگی کے", "grammar": "Definite Noun" },
+      { "word": "يُسْرًا", "transliteration": "yusran", "english": "ease", "urdu": "آسانی ہے", "grammar": "Indefinite Noun" }
+    ],
+    "context": {
+      "surahContext": "Surah Ash-Sharh (The Relief) was revealed during a period of immense psychological and emotional strain for the Prophet.",
+      "historicalBackground": "Provides divine comfort, assuring that divine relief is woven concurrently into every trial."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir & Al-Baghawi",
+      "content": "Notice the linguistic miracle: 'Al-'Usr' (hardship) is definite (referring to one specific hardship), while 'Yusran' (ease) is indefinite (signifying manifold, boundless ease). Thus, one hardship can never overcome two eases."
+    },
+    "simpleExplanation": "Every difficult experience carries relief, resilience, and growth inside it at the very same time.",
+    "scientificPerspective": {
+      "hasConnection": false,
+      "concept": "Psychological Resilience & Neuroplasticity",
+      "modernExplanation": "In neuroscience and positive psychology, overcoming moderate stress and hardship stimulates neuroplastic adaptation and post-traumatic growth, building cognitive resilience and empathetic capacity.",
+      "sources": [],
+      "possibleReflection": "No direct scientific connection is being claimed for this verse. It provides a timeless moral and psychological truth about human fortitude and hope.",
+      "educationalNotice": "Not applicable to physical sciences."
+    },
+    "realWorldExample": "When muscles exercise, they experience microscopic strain and fatigue, yet that very process builds strength, endurance, and cardiovascular vitality.",
+    "lifeLessons": [
+      "Never lose hope during difficult moments; relief is already unfolding",
+      "Look for the hidden blessings and growth opportunities inside trials",
+      "Offer comfort and ease to others who are experiencing distress"
+    ],
+    "reflectionQuestion": "Looking back at a past hardship, what unexpected strengths or ease developed within you?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094006.mp3"
+  },
+  {
+    "surahNumber": 96,
+    "ayahNumber": 1,
+    "arabicText": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+    "englishTranslation": "Read in the name of your Lord who created -",
+    "englishSource": "Sahih International",
+    "urduTranslation": "پڑھیے اپنے رب کے نام سے جس نے پیدا کیا،",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "اقْرَأْ", "transliteration": "Iqra", "english": "Read / Recite", "urdu": "پڑھیے", "grammar": "Imperative Verb" },
+      { "word": "بِاسْمِ", "transliteration": "bismi", "english": "in the name", "urdu": "نام سے", "grammar": "Preposition + Noun" },
+      { "word": "رَبِّكَ", "transliteration": "rabbika", "english": "of your Lord", "urdu": "اپنے رب کے", "grammar": "Noun + Pronoun" },
+      { "word": "الَّذِي", "transliteration": "alladhi", "english": "who", "urdu": "جس نے", "grammar": "Relative Pronoun" },
+      { "word": "خَلَقَ", "transliteration": "khalaqa", "english": "created", "urdu": "پیدا کیا", "grammar": "Past Verb" }
+    ],
+    "context": {
+      "surahContext": "The very first divine revelation brought by Archangel Jibril to Prophet Muhammad in the Cave of Hira on Mount Nur.",
+      "historicalBackground": "Marks the dawn of Islam with an explicit, revolutionary command to read, learn, and pursue knowledge in connection with God."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "These verses were the first mercy bestowed upon humanity through Muhammad. It highlights the honor of mankind: created from humble biological origins, yet elevated through knowledge, writing, and contemplation."
+    },
+    "simpleExplanation": "The starting point of spiritual and human development is learning, reading, and understanding the world with ethical purpose.",
+    "scientificPerspective": {
+      "hasConnection": true,
+      "concept": "Cognition, Literacy & Neurodevelopment",
+      "modernExplanation": "Cognitive neuroscience shows that reading is a culturally evolved capacity that radically rewires neural circuits in the brain (visual word form area, language networks), vastly expanding human memory, empathy, and complex conceptual reasoning beyond oral traditions.",
+      "sources": [
+        { "name": "Proust and the Squid: The Story and Science of the Reading Brain", "url": "https://harpercollins.com", "type": "Cognitive Science" }
+      ],
+      "possibleReflection": "It is noteworthy that the Quranic message begins not with ritual or legislation, but with a cognitive command to 'Read' and explore creation.",
+      "educationalNotice": "Educational reflection only. Quranic verses invite contemplation and are not technical neuroscience studies."
+    },
+    "realWorldExample": "Opening a book or learning a new skill transforms your mind and opens up worlds of understanding that were previously invisible.",
+    "lifeLessons": [
+      "Make lifelong learning a daily priority",
+      "Combine intellectual study with humility and ethical purpose",
+      "Support literacy and education for all people"
+    ],
+    "reflectionQuestion": "What new subject or book can you begin exploring this week to expand your mind?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/096001.mp3"
+  },
+  {
+    "surahNumber": 112,
+    "ayahNumber": 1,
+    "arabicText": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "englishTranslation": "Say, 'He is Allah, [who is] One.'",
+    "englishSource": "Sahih International",
+    "urduTranslation": "کہہ دیجیے کہ وہ اللہ ایک ہے۔",
+    "urduSource": "Fateh Muhammad Jalandhry",
+    "wordByWord": [
+      { "word": "قُلْ", "transliteration": "Qul", "english": "Say", "urdu": "کہہ دیجیے", "grammar": "Imperative Verb" },
+      { "word": "هُوَ", "transliteration": "huwa", "english": "He is", "urdu": "وہ ہے", "grammar": "Pronoun" },
+      { "word": "اللَّهُ", "transliteration": "Allahu", "english": "Allah", "urdu": "اللہ", "grammar": "Proper Noun" },
+      { "word": "أَحَدٌ", "transliteration": "Ahad", "english": "One / Unique", "urdu": "ایک / یکتا", "grammar": "Indefinite Noun" }
+    ],
+    "context": {
+      "surahContext": "Surah Al-Ikhlas represents the essence of Monotheism (Tawhid), described by the Prophet as equivalent in value to one-third of the Quran.",
+      "historicalBackground": "Revealed when opponents in Mecca asked for the lineage and attributes of God."
+    },
+    "tafsir": {
+      "source": "Tafsir Ibn Kathir",
+      "content": "Ahad denotes indivisible, unique Oneness with no peer, partner, or component parts. It purifies theology of anthropomorphic and polytheistic misconceptions."
+    },
+    "simpleExplanation": "God is absolutely One, unique, indivisible, and without partner or equal.",
+    "scientificPerspective": {
+      "hasConnection": false,
+      "concept": "Theology & Philosophical Monotheism",
+      "modernExplanation": "No physical empirical science connection is claimed for this verse. Philosophers of science note the principle of ontological simplicity and universality in physical laws.",
+      "sources": [],
+      "possibleReflection": "No direct scientific connection is being claimed for this verse. It is pure foundational theology.",
+      "educationalNotice": "Not applicable to empirical science."
+    },
+    "realWorldExample": "Just as a mathematical axiom must be unambiguous and whole, the foundation of faith rests on pure, undivided simplicity.",
+    "lifeLessons": [
+      "Keep your core values clear, unified, and sincere",
+      "Reject hypocrisy and internal conflict in belief",
+      "Recognize the beauty of simplicity in faith and life"
+    ],
+    "reflectionQuestion": "How does centering on One Creator bring clarity and simplicity to your daily life?",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/112001.mp3"
+  }
+]

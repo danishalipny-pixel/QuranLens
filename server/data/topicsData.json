@@ -1,0 +1,196 @@
+[
+  {
+    "slug": "patience-and-perseverance",
+    "title": "Patience & Perseverance (Sabr)",
+    "titleUrdu": "صبر اور استقامت",
+    "category": "Ethics & Morality",
+    "icon": "ShieldCheck",
+    "description": "Sabr in the Quran is active steadfastness, self-restraint in hardship, and unwavering persistence in righteous conduct.",
+    "corePrinciples": [
+      "Patience is accompanied by divine support and closeness",
+      "Trials are tests of spiritual resilience, not signs of abandonment",
+      "Perseverance transforms character and brings eventual ease"
+    ],
+    "verses": [
+      {
+        "surahNumber": 2,
+        "ayahNumber": 153,
+        "surahName": "Al-Baqarah",
+        "arabicPreview": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "translationPreview": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+        "themeConnection": "Pairs patience with prayer as dual psychological and spiritual anchors during life tribulations."
+      },
+      {
+        "surahNumber": 94,
+        "ayahNumber": 5,
+        "surahName": "Ash-Sharh",
+        "arabicPreview": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا • إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translationPreview": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.",
+        "themeConnection": "Affirms that hardship does not merely precede ease, but carries the seeds of relief within itself."
+      },
+      {
+        "surahNumber": 103,
+        "ayahNumber": 3,
+        "surahName": "Al-'Asr",
+        "arabicPreview": "وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "translationPreview": "And advised each other to truth and advised each other to patience.",
+        "themeConnection": "Establishes communal support in patience as an indispensable condition to overcome ultimate loss in time."
+      }
+    ]
+  },
+  {
+    "slug": "gratitude-and-mindfulness",
+    "title": "Gratitude & Mindfulness (Shukr)",
+    "titleUrdu": "شکر گزاری اور نعمت شناسی",
+    "category": "Faith & Reflection",
+    "icon": "Heart",
+    "description": "Shukr is conscious recognition of divine favors in everyday life, manifesting through speech, action, and sharing blessings.",
+    "corePrinciples": [
+      "Gratitude expands contentment and multiplies blessings",
+      "Recognizing subtle daily gifts prevents psychological despair",
+      "True gratitude is expressed by serving humanity with what one has received"
+    ],
+    "verses": [
+      {
+        "surahNumber": 14,
+        "ayahNumber": 7,
+        "surahName": "Ibrahim",
+        "arabicPreview": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+        "translationPreview": "If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.",
+        "themeConnection": "Directly links subjective psychological and material growth to an active disposition of gratitude."
+      },
+      {
+        "surahNumber": 55,
+        "ayahNumber": 13,
+        "surahName": "Ar-Rahman",
+        "arabicPreview": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "translationPreview": "So which of the favors of your Lord would you deny?",
+        "themeConnection": "A rhythmic meditative reminder repeated 31 times to reflect on cosmic, earthly, and personal mercies."
+      }
+    ]
+  },
+  {
+    "slug": "creation-and-the-cosmos",
+    "title": "Creation & The Universe (Tadabbur)",
+    "titleUrdu": "کائنات کی تخلیق اور تدبر",
+    "category": "Nature & Cosmos",
+    "icon": "Compass",
+    "description": "Invites human intellect to observe natural symmetry, celestial mechanics, and terrestrial balance as reflective signs.",
+    "corePrinciples": [
+      "Cosmic balance points toward purposeful creation rather than arbitrary chaos",
+      "The physical laws of nature are designated as signs (Ayat) for thinking minds",
+      "Scientific study of the universe is a form of cognitive contemplation"
+    ],
+    "verses": [
+      {
+        "surahNumber": 3,
+        "ayahNumber": 190,
+        "surahName": "Ali 'Imran",
+        "arabicPreview": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ",
+        "translationPreview": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.",
+        "themeConnection": "Identifies individuals of deep intellect as those who connect cosmological observation with existential purpose."
+      },
+      {
+        "surahNumber": 21,
+        "ayahNumber": 30,
+        "surahName": "Al-Anbiya",
+        "arabicPreview": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ",
+        "translationPreview": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing?",
+        "themeConnection": "Foundational verse highlighting universal aquatic basis of organic life and cosmic primordial singularity."
+      }
+    ]
+  },
+  {
+    "slug": "justice-and-social-equity",
+    "title": "Justice & Social Equity ('Adl & Qist)",
+    "category": "Society & Justice",
+    "titleUrdu": "عدل اور سماجی انصاف",
+    "icon": "Scale",
+    "description": "Justice is the paramount moral imperative in the Quran, demanding truthfulness even when testifying against oneself or loved ones.",
+    "corePrinciples": [
+      "Absolute fairness regardless of tribal, national, or personal affiliation",
+      "Economic integrity: fair weights, measures, and protection of the vulnerable",
+      "Standing for justice is an essential manifestation of faith"
+    ],
+    "verses": [
+      {
+        "surahNumber": 4,
+        "ayahNumber": 135,
+        "surahName": "An-Nisa",
+        "arabicPreview": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ",
+        "translationPreview": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.",
+        "themeConnection": "Inscribed at Harvard Law School entrance as one of history's greatest expressions of universal justice."
+      },
+      {
+        "surahNumber": 5,
+        "ayahNumber": 8,
+        "surahName": "Al-Ma'idah",
+        "arabicPreview": "وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ",
+        "translationPreview": "And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.",
+        "themeConnection": "Prohibits malice from compromising ethical objectivity and impartiality."
+      }
+    ]
+  },
+  {
+    "slug": "mercy-and-human-compassion",
+    "title": "Mercy & Compassion (Rahmah)",
+    "titleUrdu": "رحمت اور انسانی ہمدردی",
+    "category": "Faith & Reflection",
+    "icon": "Smile",
+    "description": "Divine Mercy encompasses all things; human beings are encouraged to embody compassion towards all living creatures.",
+    "corePrinciples": [
+      "Divine mercy supersedes anger and is renewed at every prayer",
+      "Treating orphans, the destitute, and vulnerable with gentle dignity",
+      "Universal compassion extending to animals and natural ecosystems"
+    ],
+    "verses": [
+      {
+        "surahNumber": 21,
+        "ayahNumber": 107,
+        "surahName": "Al-Anbiya",
+        "arabicPreview": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ",
+        "translationPreview": "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
+        "themeConnection": "Establishes universal benevolence across all humans, fauna, and flora as the core prophetic mission."
+      },
+      {
+        "surahNumber": 39,
+        "ayahNumber": 53,
+        "surahName": "Az-Zumar",
+        "arabicPreview": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا",
+        "translationPreview": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins.'",
+        "themeConnection": "The ultimate message of hope and rehabilitation, forbidding despair."
+      }
+    ]
+  },
+  {
+    "slug": "knowledge-and-intellectual-pursuit",
+    "title": "Knowledge & Intellectual Pursuit ('Ilm)",
+    "titleUrdu": "علم اور فکری جستجو",
+    "category": "Ethics & Morality",
+    "icon": "BookOpen",
+    "description": "The very first word of revelation was 'Iqra' (Read). The Quran persistently elevates learning, observation, and literacy.",
+    "corePrinciples": [
+      "Literacy and scholarly exploration are sacred endeavors",
+      "Critical thinking and evidence are demanded over blind following",
+      "Humility in the face of expanding horizons of knowledge"
+    ],
+    "verses": [
+      {
+        "surahNumber": 96,
+        "ayahNumber": 1,
+        "surahName": "Al-'Alaq",
+        "arabicPreview": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ • خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ • اقْرَأْ وَرَبُّكَ الْأَكْرَمُ • الَّذِي عَلَّمَ بِالْقَلَمِ",
+        "translationPreview": "Read in the name of your Lord who created — Created man from a clinging substance. Read, and your Lord is the most Generous — Who taught by the pen.",
+        "themeConnection": "The foundational inauguration of prophetic revelation centering reading, biology, and writing instruments."
+      },
+      {
+        "surahNumber": 20,
+        "ayahNumber": 114,
+        "surahName": "Ta-Ha",
+        "arabicPreview": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+        "translationPreview": "And say, 'My Lord, increase me in knowledge.'",
+        "themeConnection": "A concise prayer recognizing human fallibility and lifelong dedication to intellectual and spiritual growth."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "quranlens",
+  "version": "1.0.0",
+  "description": "QuranLens - Read. Understand. Reflect. Comprehensive Quran Learning & Scientific Exploration Platform",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"cyan,green\" \"npm run server\" \"npm run client\"",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm start",
+    "build": "cd client && npm run build",
+    "seed": "cd server && npm run seed",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  }
+}

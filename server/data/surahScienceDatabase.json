@@ -1,0 +1,269 @@
+[
+  {
+    "surahNumber": 1,
+    "surahName": "Al-Fatihah",
+    "nameArabic": "الفاتحة",
+    "totalAyahs": 7,
+    "revelationType": "Makki",
+    "hasScientificThemes": true,
+    "classification": "Indirect Conceptual & Ecological Reflection",
+    "primaryDomains": ["Cosmic Hierarchy & Ecological Interdependence", "Cognitive Intentionality"],
+    "summary": "While primarily liturgical and theological, Al-Fatihah introduces the foundational concept of 'Rabb al-'Alamin' (Lord of all realms/worlds), reflecting the vast multiplicity of micro and macro ecosystems across nature.",
+    "scientificConcepts": [
+      {
+        "concept": "Multi-scale Ecological Realms ('Al-Alamin)",
+        "domain": "Ecology & Cosmology",
+        "description": "Modern cosmology and biology reveal nature structured across interlocking realms: the microbial biome, terrestrial biospheres, ocean depths, solar systems, and galactic webs.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 2,
+            "arabicText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+            "translation": "[All] praise is [due] to Allah, Lord of the worlds.",
+            "classification": "Indirect conceptual relationship",
+            "reflection": "The term 'Al-Alamin' (plural of 'alam) points toward the myriad dimensions and ecosystems of existence sustaining living organisms."
+          }
+        ],
+        "modernExplanation": "Modern systems biology and astrophysics demonstrate that life operates within deeply nested, self-balancing ecosystems. From gut microbiota to the cosmic web, order and nurturing sustenance (the core linguistic root of 'Rabb') are essential for existence.",
+        "sources": [
+          { "title": "Nature Ecology & Evolution: The Multi-Scale Web of Life", "publisher": "Nature Publishing Group", "date": "2021", "url": "https://nature.com" },
+          { "title": "NASA Astrophysics: The Architecture of the Observable Universe", "publisher": "NASA", "date": "2023", "url": "https://science.nasa.gov" }
+        ],
+        "realWorldExample": "Just as a human cell relies on thousands of molecular organelles working together seamlessly, ecosystems thrive when biodiversity is preserved in balance."
+      }
+    ],
+    "classicalTafsirSummary": "Imam Ibn Kathir and Al-Qurtubi explain that 'Al-Alamin' encompasses all existing entities besides God, categorized into distinct classes of existence: humanity, jinn, angels, animals, celestial bodies, and unseen realms.",
+    "limitationsAndNotice": "Al-Fatihah is the foundational prayer of Islam. Its references to 'the worlds' are theological and contemplative, inviting awe rather than serving as an empirical taxonomy."
+  },
+  {
+    "surahNumber": 2,
+    "surahName": "Al-Baqarah",
+    "nameArabic": "البقرة",
+    "totalAyahs": 286,
+    "revelationType": "Madani",
+    "hasScientificThemes": true,
+    "classification": "Natural Phenomena & Terrestrial Hydrology",
+    "primaryDomains": ["Water & Rainfall", "Earth & Agriculture", "Atmosphere & Physics"],
+    "summary": "Al-Baqarah presents rich descriptions of meteorological processes: lightning discharge, thunder, rainfall revitalizing dead soil, and celestial balance in Ayat al-Kursi.",
+    "scientificConcepts": [
+      {
+        "concept": "Atmospheric Electricity & Precipitation Dynamics",
+        "domain": "Water & Rainfall",
+        "description": "Explores convective storm mechanics, cumulonimbus cloud formation, and the revitalization of arid landscapes through rain.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 22,
+            "arabicText": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ",
+            "translation": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby some fruits as provision for you.",
+            "classification": "Natural phenomenon",
+            "reflection": "The protective sky ('sama'an bina'a') and cyclical rainfall are identified as fundamental lifelines for terrestrial biodiversity."
+          },
+          {
+            "ayahNumber": 164,
+            "arabicText": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ",
+            "translation": "Indeed, in the creation of the heavens and earth, the alternation of night and day, the ships that sail through the sea... and the rain which Allah sends down from the sky, giving life thereby to the earth after its lifelessness... are signs for a people who use reason.",
+            "classification": "Direct scientific subject",
+            "reflection": "One of the most comprehensive scientific contemplation passages in the Quran, integrating astronomy, meteorology, marine navigation, and ecological botany."
+          }
+        ],
+        "modernExplanation": "Meteorologists study atmospheric circulation cells (Hadley, Ferrel, Polar cells) that circulate moisture globally. When water vapor condenses into cloud droplets, agricultural soils receive nutrient-rich precipitation, activating microbial nitrification and seed germination.",
+        "sources": [
+          { "title": "NOAA National Weather Service: Cloud and Precipitation Physics", "publisher": "NOAA", "date": "2023", "url": "https://weather.gov" },
+          { "title": "USGS Water Science: The Global Hydrological Cycle", "publisher": "U.S. Geological Survey", "date": "2022", "url": "https://usgs.gov" }
+        ],
+        "realWorldExample": "Like agricultural irrigation relying on seasonal rainfall to awaken dormant seeds, terrestrial ecosystems cannot survive without continuous atmospheric moisture cycles."
+      }
+    ],
+    "classicalTafsirSummary": "Classical commentators like Ibn Kathir highlight Ayah 164 as the ultimate intellectual signpost, demonstrating that the natural mechanisms of wind, sea buoyancy, and clouds are subservient (*Musakh-khar*) to universal physical and divine laws.",
+    "limitationsAndNotice": "These descriptions are empirical invitations for cognitive reasoning (*li-qawmin ya'qilun*); they illustrate providential balance without functioning as technical fluid-dynamic formulas."
+  },
+  {
+    "surahNumber": 21,
+    "surahName": "Al-Anbiya",
+    "nameArabic": "الأنبياء",
+    "totalAyahs": 112,
+    "revelationType": "Makki",
+    "hasScientificThemes": true,
+    "classification": "Direct Scientific Subject & Cosmology",
+    "primaryDomains": ["Universe & Astronomy", "Earth & Geology", "Water & Rainfall"],
+    "summary": "Surah Al-Anbiya contains foundational verses addressing cosmic origins (heavens and earth unified then separated), aquatic origin of biological organisms, celestial gravitational orbits, and mountains as stabilizing anchors.",
+    "scientificConcepts": [
+      {
+        "concept": "Cosmic Origin (Singularity) & Universal Water Basis of Life",
+        "domain": "Universe & Astronomy",
+        "description": "Focuses on the primordial interconnected state of matter and space, and the biological requirement of water for cellular life.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 30,
+            "arabicText": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+            "translation": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing? Then will they not believe?",
+            "classification": "Direct scientific subject",
+            "reflection": "Highlights the common cosmic origin of physical matter and the universal aquatic foundation of biochemistry."
+          },
+          {
+            "ayahNumber": 31,
+            "arabicText": "وَجَعَلْنَا فِي الْأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِهِمْ",
+            "translation": "And We placed within the earth firmly set mountains, lest it should shake with them.",
+            "classification": "Natural phenomenon",
+            "reflection": "Geological isostasy and deep lithospheric roots of orogenic belts."
+          },
+          {
+            "ayahNumber": 33,
+            "arabicText": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+            "translation": "And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming.",
+            "classification": "Direct scientific subject",
+            "reflection": "Celestial orbital mechanics; both solar and lunar trajectories through spacetime curvature."
+          }
+        ],
+        "modernExplanation": "In observational cosmology, the Big Bang model establishes that approximately 13.8 billion years ago, spacetime and matter expanded from an ultra-dense singularity. In cellular biology, 70-90% of cellular mass is water, which acts as the mandatory polar solvent for DNA replication, enzyme catalysis, and metabolic homeostasis.",
+        "sources": [
+          { "title": "NASA Science: The Big Bang and Cosmic Expansion", "publisher": "NASA Science Mission Directorate", "date": "2024", "url": "https://science.nasa.gov" },
+          { "title": "Molecular Biology of the Cell (7th Edition)", "publisher": "W. W. Norton (Alberts et al.)", "date": "2022", "url": "https://ncbi.nlm.nih.gov" },
+          { "title": "USGS Earth Science: Plate Tectonics and Isostasy", "publisher": "USGS", "date": "2021", "url": "https://usgs.gov" }
+        ],
+        "realWorldExample": "Without water, the chemical bonds holding your DNA and proteins in shape collapse, halting metabolism immediately; all terrestrial life depends upon aqueous cellular cytoplasm."
+      }
+    ],
+    "classicalTafsirSummary": "Classical scholars (Ibn Kathir, Al-Alusi) noted that 'ratq' means continuous stitched mass, and 'fataq' signifies cleaving apart. They emphasized that God established water as the primary physical constituent of living animals and vegetation.",
+    "limitationsAndNotice": "While modern physicists recognize parallels with cosmic singularity and cellular biochemistry, the Quranic discourse uses these realities to stimulate moral awakening and reverence."
+  },
+  {
+    "surahNumber": 23,
+    "surahName": "Al-Mu'minun",
+    "nameArabic": "المؤمنون",
+    "totalAyahs": 118,
+    "revelationType": "Makki",
+    "hasScientificThemes": true,
+    "classification": "Direct Scientific Subject & Embryology",
+    "primaryDomains": ["Human creation & development", "Biology & Embryology"],
+    "summary": "Contains the famous sequential stages of human prenatal morphogenesis: gametes, blastocyst implantation (clinging clot), somite segmentation (chewed lump), cartilage/bone scaffolding, and muscle coverage.",
+    "scientificConcepts": [
+      {
+        "concept": "Human Embryonic Morphogenesis & Organogenesis",
+        "domain": "Human creation & development",
+        "description": "Details the sequential development of the human fetus from conception to fetal maturity.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 12,
+            "arabicText": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ",
+            "translation": "And certainly did We create man from an extract of clay.",
+            "classification": "Indirect conceptual relationship",
+            "reflection": "Biochemical elemental composition matching terrestrial crustal minerals."
+          },
+          {
+            "ayahNumber": 14,
+            "arabicText": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ",
+            "translation": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation.",
+            "classification": "Direct scientific subject",
+            "reflection": "Sequential macroscopic morphological phases: blastocyst implantation ('alaqah), somite-segmented phase (mudghah), cartilage skeleton ('izam), and muscle differentiation (lahm)."
+          }
+        ],
+        "modernExplanation": "Modern embryology charts human gestation: fertilization forms a blastocyst that implants in the uterine wall at days 6-10 ('clinging'). By week 4, the embryo develops somite segments resembling a chewed mass with indented teeth-like beads. Chondrogenesis then forms early cartilage precursors before surrounding myoblasts differentiate into skeletal muscles.",
+        "sources": [
+          { "title": "The Developing Human: Clinically Oriented Embryology (11th Ed)", "publisher": "Elsevier (Moore, Persaud, Torchia)", "date": "2019", "url": "https://elsevier.com" },
+          { "title": "NIH National Library of Medicine: Somite Segmentation in Human Development", "publisher": "NIH", "date": "2023", "url": "https://ncbi.nlm.nih.gov" }
+        ],
+        "realWorldExample": "Like building a skyscraper where the internal steel beams and framework are erected before the outer drywall and insulation are installed around them."
+      }
+    ],
+    "classicalTafsirSummary": "Classical commentaries record that the Prophet explained these forty-day sequential transformations to his companions, affirming the sacred sanctity of human life and continuous divine craftsmanship.",
+    "limitationsAndNotice": "These descriptions are macroscopic visual analogies illustrating the transition from humble biological fluid to a conscious, dignified human being."
+  },
+  {
+    "surahNumber": 55,
+    "surahName": "Ar-Rahman",
+    "nameArabic": "الرحمن",
+    "totalAyahs": 78,
+    "revelationType": "Madani",
+    "hasScientificThemes": true,
+    "classification": "Natural Phenomena & Oceanic Pycnoclines",
+    "primaryDomains": ["Oceans & Environmental systems", "Universe & Astronomy"],
+    "summary": "Celebrates universal balance (Mizan), planetary harmony, and the meeting of adjacent oceanic water bodies where natural density and salinity barriers prevent instantaneous homogenization.",
+    "scientificConcepts": [
+      {
+        "concept": "Oceanic Density Stratification & Estuarine Fronts",
+        "domain": "Oceans & Environmental systems",
+        "description": "Examines pycnoclines, haloclines, and thermohaline circulation where distinct marine bodies meet.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 19,
+            "arabicText": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ • بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+            "translation": "He released the two seas, meeting [side by side]; Between them is a barrier [barzakh] which neither transgresses.",
+            "classification": "Direct scientific subject",
+            "reflection": "Physical oceanographic transition zones where differing salinity, temperature, and density maintain water body boundaries."
+          }
+        ],
+        "modernExplanation": "When distinct water bodies meet—such as the Mediterranean and Atlantic at Gibraltar—sharp density fronts (pycnoclines) and salinity gradients (haloclines) prevent immediate mixing, preserving distinct physical and biological characteristics over thousands of kilometers.",
+        "sources": [
+          { "title": "NOAA Ocean Service: Fronts and Density Barriers", "publisher": "NOAA", "date": "2023", "url": "https://oceanservice.noaa.gov" },
+          { "title": "Nature Geoscience: Thermohaline Stratification in Adjoining Seas", "publisher": "Nature", "date": "2020", "url": "https://nature.com" }
+        ],
+        "realWorldExample": "Pouring fresh cold water over dense warm saltwater creates two visible layers with an identifiable boundary line between them before slow molecular diffusion occurs."
+      }
+    ],
+    "classicalTafsirSummary": "Classical scholars (Ibn Kathir, Al-Jalalayn) interpreted the barrier ('barzakh') as an unseen natural division appointed by divine decree so that each water body fulfills its ecological role without overpowering the other.",
+    "limitationsAndNotice": "Fluid mechanics and oceanographic density dynamics describe the physical behavior; the Qur'an invites human reflection upon the delicate balance preserving life on Earth."
+  },
+  {
+    "surahNumber": 57,
+    "surahName": "Al-Hadid",
+    "nameArabic": "الحديد",
+    "totalAyahs": 29,
+    "revelationType": "Madani",
+    "hasScientificThemes": true,
+    "classification": "Direct Scientific Subject & Nuclear Astrophysics",
+    "primaryDomains": ["Universe & Astronomy", "Earth & Geology"],
+    "summary": "Named after Iron (Al-Hadid), highlighting the extraterrestrial origin of terrestrial iron through stellar nucleosynthesis and its structural indispensable utility for civilization.",
+    "scientificConcepts": [
+      {
+        "concept": "Stellar Nucleosynthesis & Supernovae Synthesis of Iron",
+        "domain": "Universe & Astronomy",
+        "description": "Explores how heavy elements like iron are synthesized exclusively during core-collapse supernovae of massive stars.",
+        "ayahReferences": [
+          {
+            "ayahNumber": 25,
+            "arabicText": "وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ",
+            "translation": "And We sent down iron, wherein is great military might and benefits for the people.",
+            "classification": "Direct scientific subject",
+            "reflection": "The phrasing 'We sent down iron' corresponds with modern astrophysics findings that terrestrial iron originated outside Earth through supernovae debris and meteoric accretion."
+          }
+        ],
+        "modernExplanation": "In nuclear astrophysics, ordinary stellar fusion stops at iron-56 because iron possesses the highest nuclear binding energy per nucleon. Forging elements heavier than iron consumes energy rather than releasing it, meaning iron can only be synthesized during cataclysmic supernova explosions of massive stars, dispersing iron debris into space to coalesce into planets.",
+        "sources": [
+          { "title": "NASA Goddard: The Origin of the Elements", "publisher": "NASA", "date": "2023", "url": "https://imagine.gsfc.nasa.gov" },
+          { "title": "Cambridge University Press: Principles of Stellar Nucleosynthesis", "publisher": "Cambridge", "date": "2022", "url": "https://cambridge.org" }
+        ],
+        "realWorldExample": "Without iron, modern railways, skyscrapers, and bridges could not exist, and human blood could not carry oxygen to brain cells through iron-based hemoglobin."
+      }
+    ],
+    "classicalTafsirSummary": "Classical scholars noted that iron was bestowed (*anzalna*) as an essential material for agriculture, defense, construction, and societal welfare, balancing justice with protective fortitude.",
+    "limitationsAndNotice": "The Arabic verb 'anzala' holds multiple semantic shades in classical Arabic (both physical descent and divine endowment); both physical and providential readings enrich human gratitude."
+  },
+  {
+    "surahNumber": 111,
+    "surahName": "Al-Masad",
+    "nameArabic": "المسد",
+    "totalAyahs": 5,
+    "revelationType": "Makki",
+    "hasScientificThemes": false,
+    "classification": "No Clear Scientific Relationship",
+    "primaryDomains": ["Historical Accountability & Justice"],
+    "summary": "Surah Al-Masad deals specifically with the historical opposition of Abu Lahab and his wife against truth and human dignity. In accordance with QuranLens principles, no scientific connection is falsely claimed.",
+    "scientificConcepts": [],
+    "classicalTafsirSummary": "Revealed regarding the immediate historical opposition to the early prophetic message in Mecca. The themes are strictly moral, historical, and theological.",
+    "limitationsAndNotice": "No direct physical scientific connection is present in this Surah. QuranLens maintains academic honesty by acknowledging that not every Qur'anic chapter relates to empirical sciences."
+  },
+  {
+    "surahNumber": 112,
+    "surahName": "Al-Ikhlas",
+    "nameArabic": "الإخلاص",
+    "totalAyahs": 4,
+    "revelationType": "Makki",
+    "hasScientificThemes": false,
+    "classification": "Ethical/Spiritual Message",
+    "primaryDomains": ["Pure Monotheism (Tawhid)"],
+    "summary": "Surah Al-Ikhlas is the definitive chapter on pure theological monotheism. It defines the absolute oneness, eternity, and transcendence of the Creator.",
+    "scientificConcepts": [],
+    "classicalTafsirSummary": "Equated by the Prophet to one-third of the Quran due to its pure distillation of divine attributes, rejecting polytheism and anthropomorphism.",
+    "limitationsAndNotice": "No physical empirical science connection is claimed for this verse. It is pure foundational theology."
+  }
+]
