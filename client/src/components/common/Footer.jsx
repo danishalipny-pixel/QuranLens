@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Sparkles, Compass, Bot, Heart, ExternalLink, ShieldCheck } from 'lucide-react';
+import { BookOpen, Sparkles, Compass, Bot, Heart, ExternalLink, ShieldCheck, Download } from 'lucide-react';
 import { useLanguage } from '../../context/LanguageContext';
+import { usePWA } from '../../context/PWAContext';
 
 export default function Footer() {
   const { isUrdu, t } = useLanguage();
+  const { setShowInstallModal, isInstalled } = usePWA();
 
   return (
     <footer className="bg-charcoal-900 text-ivory-100 border-t border-charcoal-800 transition-colors">
@@ -126,6 +128,17 @@ export default function Footer() {
                   {isUrdu ? 'رابطہ و علمی مشاورت' : 'Contact Academic Team'}
                 </Link>
               </li>
+              {!isInstalled && (
+                <li>
+                  <button
+                    onClick={() => setShowInstallModal(true)}
+                    className="flex items-center gap-1.5 text-gold-400 hover:text-gold-300 transition font-semibold"
+                  >
+                    <Download className="w-3.5 h-3.5" />
+                    <span>{isUrdu ? 'قرآن لینز ایپ انسٹال کریں' : 'Install PWA App'}</span>
+                  </button>
+                </li>
+              )}
             </ul>
           </div>
 

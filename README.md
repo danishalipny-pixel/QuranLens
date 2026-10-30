@@ -128,6 +128,35 @@ npm run dev
 
 ---
 
+## 📱 Progressive Web App (PWA) & Offline Reading
+
+QuranLens is fully equipped with offline-first Progressive Web App capabilities:
+- **Offline Reading Engine:** Caches all 114 Surahs, translations, and essential Quranic data via `sw.js`. When internet is unavailable, users can read and contemplate without interruptions.
+- **Standalone Display Mode:** Launches full-screen like a native mobile app without URL bars or browser chrome.
+- **Cross-Platform Installation:**
+  - **Android Chrome / Edge:** One-tap install via the native install prompt or the in-app "ایپ انسٹال کریں" button.
+  - **iOS Safari (iPhone / iPad):** Step-by-step guidance to "Add to Home Screen" (`Share` ➔ `Add to Home Screen`).
+  - **Desktop (Chrome / Edge / Brave):** Install icon in the address bar for a lightweight desktop app.
+- **Automatic Updates:** Background service worker checks for updates and surfaces an instant "Update Now" banner when new revisions are published.
+
+---
+
+## 🌐 Free Cloud Deployment (Netlify & Vercel)
+
+QuranLens is pre-configured with SPA routing rewrites for free deployment without custom domains:
+
+### Deploy on Netlify (e.g. `quranlens.netlify.app`)
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+- **Base directory:** `client`
+- *(Pre-configured via `netlify.toml` and `client/public/_redirects`)*
+
+### Deploy on Vercel (e.g. `quranlens.vercel.app`)
+- Connect the GitHub repository directly on [Vercel](https://vercel.com).
+- Framework preset: **Vite**
+- Root directory: `client`
+- *(Pre-configured via `vercel.json` and `client/vercel.json`)*
+
 ## 📱 Responsive Testing
 Tested across modern screen dimensions with zero horizontal overflow:
 - **Mobile (320px, 375px, 390px)**: Compact bottom bars, scrollable pill carousels, responsive Nastaliq typography.

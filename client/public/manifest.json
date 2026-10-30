@@ -1,0 +1,78 @@
+{
+  "name": "QuranLens — قرآن کو سمجھیں، غور کریں، علم حاصل کریں",
+  "short_name": "QuranLens",
+  "description": "پڑھیں، سمجھیں، غور و فکر کریں۔ Explore the Qur'an with authentic translations, classical Tafsir, responsible scientific reflections, and an intelligent Urdu AI Tutor.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "window-controls-overlay"],
+  "orientation": "any",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "dir": "rtl",
+  "lang": "ur",
+  "categories": ["education", "books", "reference", "lifestyle"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "تمام ۱۱۴ سورتیں (All Surahs)",
+      "short_name": "سورتیں",
+      "url": "/surahs",
+      "description": "قرآن مجید کی تمام ۱۱۴ سورتوں کا مطالعہ",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "سائنس اور قرآن (Science & Quran)",
+      "short_name": "سائنس",
+      "url": "/science",
+      "description": "کائناتی مظاہر اور سائنسی تدبر",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "اردو اے آئی اتالیق (Urdu AI Tutor)",
+      "short_name": "اے آئی",
+      "url": "/ai-tutor",
+      "description": "۱۰ تفصیلی موڈز میں فہمِ قرآن",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "محفوظ شدہ آیات (Bookmarks)",
+      "short_name": "بک مارکس",
+      "url": "/profile",
+      "description": "آپ کی پسندیدہ آیات اور مطالعے کی تاریخ",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

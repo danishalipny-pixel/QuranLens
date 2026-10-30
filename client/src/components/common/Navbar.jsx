@@ -15,16 +15,19 @@ import {
   Type,
   ShieldAlert,
   Languages,
+  Download,
 } from 'lucide-react';
 import { useReading } from '../../context/ReadingContext';
 import { useAuth } from '../../context/AuthContext';
 import { useLanguage } from '../../context/LanguageContext';
+import { usePWA } from '../../context/PWAContext';
 
 export default function Navbar({ onOpenSearch }) {
   const location = useLocation();
   const { theme, toggleTheme, arabicFontSize, setArabicFontSize, translationFontSize, setTranslationFontSize } = useReading();
   const { user, isAuthenticated, isAdmin } = useAuth();
   const { isUrdu, toggleLanguage, t } = useLanguage();
+  const { isInstalled, setShowInstallModal } = usePWA();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [fontMenuOpen, setFontMenuOpen] = useState(false);
 
@@ -106,6 +109,18 @@ export default function Navbar({ onOpenSearch }) {
               <Languages className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400" />
               <span>{isUrdu ? 'English' : 'اردو'}</span>
             </button>
+
+            {/* PWA Install Button (Desktop) */}
+            {!isInstalled && (
+              <button
+                onClick={() => setShowInstallModal(true)}
+                className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-xl bg-gold-100 dark:bg-gold-950/60 hover:bg-gold-200 dark:hover:bg-gold-900/60 text-gold-900 dark:text-gold-200 border border-gold-300 dark:border-gold-800/60 transition shadow-sm"
+                title={isUrdu ? "قرآن لینز ایپ انسٹال کریں" : "Install QuranLens App"}
+              >
+                <Download className="w-3.5 h-3.5 text-gold-600 dark:text-gold-400" />
+                <span>{isUrdu ? 'ایپ انسٹال کریں' : 'Install App'}</span>
+              </button>
+            )}
 
             {/* Search Trigger */}
             <button
@@ -278,6 +293,21 @@ export default function Navbar({ onOpenSearch }) {
               </Link>
             );
           })}
+
+          {!isInstalled && (
+            <div className="pt-2">
+              <button
+                onClick={() => {
+                  setShowInstallModal(true);
+                  setMobileMenuOpen(false);
+                }}
+                className="w-full flex items-center justify-center gap-2 py-2.5 rounded-xl bg-gradient-to-r from-emerald-800 to-emerald-700 text-white font-bold text-xs shadow-soft"
+              >
+                <Download className="w-4 h-4 text-gold-300" />
+                <span>{isUrdu ? 'قرآن لینز ایپ انسٹال کریں (آف لائن)' : 'Install QuranLens App (Offline)'}</span>
+              </button>
+            </div>
+          )}
 
           <div className="pt-3 border-t border-ivory-200 dark:border-charcoal-800 flex items-center justify-between">
             {isAuthenticated ? (

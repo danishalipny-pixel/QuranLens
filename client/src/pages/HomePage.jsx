@@ -13,9 +13,13 @@ import {
   Heart,
   Search,
   ExternalLink,
+  Download,
+  Smartphone,
+  WifiOff,
 } from 'lucide-react';
 import { useAudio } from '../context/AudioContext';
 import { useLanguage } from '../context/LanguageContext';
+import { usePWA } from '../context/PWAContext';
 import surahsData from '../data/surahs.json';
 import scienceData from '../data/scienceTopics.json';
 import topicsData from '../data/topics.json';
@@ -23,6 +27,7 @@ import topicsData from '../data/topics.json';
 export default function HomePage({ onOpenSearch }) {
   const { playAyah } = useAudio();
   const { isUrdu, isRTL, t } = useLanguage();
+  const { setShowInstallModal, isInstalled } = usePWA();
   const [featuredSurahs, setFeaturedSurahs] = useState([]);
   const [featuredScience, setFeaturedScience] = useState([]);
   const [featuredTopics, setFeaturedTopics] = useState([]);
@@ -505,6 +510,41 @@ export default function HomePage({ onOpenSearch }) {
           </div>
         </div>
       </section>
+
+      {/* 8. PWA INSTALL & OFFLINE EXPERIENCE BANNER */}
+      {!isInstalled && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="rounded-3xl bg-gradient-to-r from-emerald-900 via-emerald-800 to-teal-900 text-white p-8 sm:p-10 shadow-soft-lg flex flex-col md:flex-row items-center justify-between gap-6 border border-emerald-700/60 font-urdu">
+            <div className="flex items-center gap-4">
+              <div className="w-16 h-16 rounded-2xl bg-emerald-950/70 border border-gold-400/30 flex items-center justify-center text-gold-400 shadow-inner flex-shrink-0">
+                <Smartphone className="w-8 h-8" />
+              </div>
+              <div className="space-y-1">
+                <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-gold-400/20 text-gold-300 border border-gold-400/30 text-[10px] font-bold">
+                  <WifiOff className="w-3 h-3" />
+                  <span>{isUrdu ? 'آف لائن اور پورٹیبل ایپ' : 'Offline & Portable App'}</span>
+                </div>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif">
+                  {isUrdu ? 'قرآن لینز کو اپنے موبائل یا لیپ ٹاپ پر انسٹال کریں' : 'Install QuranLens on Mobile or Desktop'}
+                </h3>
+                <p className="text-xs text-emerald-100/90 max-w-xl leading-relaxed">
+                  {isUrdu
+                    ? 'بغیر انٹرنیٹ کنکشن کے تمام ۱۱۴ سورتیں، ترجمہ اور تفاسیر پڑھیں۔ پلے اسٹور کے بغیر، ہوم اسکرین پر براہِ راست محفوظ کریں۔'
+                    : 'Read all 114 Surahs, translations, and reflections offline anytime. Direct one-tap launch from your device home screen.'}
+                </p>
+              </div>
+            </div>
+
+            <button
+              onClick={() => setShowInstallModal(true)}
+              className="px-6 py-3.5 rounded-2xl bg-gold-500 hover:bg-gold-400 text-charcoal-950 font-bold text-xs sm:text-sm shadow-soft flex items-center gap-2 whitespace-nowrap transition-all flex-shrink-0"
+            >
+              <Download className="w-4 h-4" />
+              <span>{isUrdu ? 'مفت ایپ انسٹال کریں' : 'Install App Free'}</span>
+            </button>
+          </div>
+        </section>
+      )}
 
     </div>
   );

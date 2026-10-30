@@ -5,11 +5,14 @@ import { ReadingProvider } from './context/ReadingContext';
 import { BookmarkProvider } from './context/BookmarkContext';
 import { AudioProvider } from './context/AudioContext';
 import { LanguageProvider } from './context/LanguageContext';
+import { PWAProvider } from './context/PWAContext';
 
 import Navbar from './components/common/Navbar';
 import Footer from './components/common/Footer';
 import SearchModal from './components/common/SearchModal';
 import AudioPlayerBar from './components/audio/AudioPlayerBar';
+import InstallModal from './components/pwa/InstallModal';
+import OfflineBanner from './components/pwa/OfflineBanner';
 
 import HomePage from './pages/HomePage';
 import SurahsPage from './pages/SurahsPage';
@@ -49,19 +52,23 @@ export default function App() {
 
   return (
     <LanguageProvider>
-      <AuthProvider>
-        <ReadingProvider>
-          <BookmarkProvider>
-            <AudioProvider>
-              <Router>
-                <ScrollToTop />
-                <div className="min-h-screen flex flex-col bg-ivory-50 dark:bg-charcoal-950 text-charcoal-900 dark:text-ivory-100 transition-colors selection:bg-emerald-700 selection:text-white">
-                  
-                  {/* Global Navbar */}
-                  <Navbar onOpenSearch={() => setIsSearchOpen(true)} />
+      <PWAProvider>
+        <AuthProvider>
+          <ReadingProvider>
+            <BookmarkProvider>
+              <AudioProvider>
+                <Router>
+                  <ScrollToTop />
+                  <div className="min-h-screen flex flex-col bg-ivory-50 dark:bg-charcoal-950 text-charcoal-900 dark:text-ivory-100 transition-colors selection:bg-emerald-700 selection:text-white">
+                    
+                    {/* Top Offline / Update Banner */}
+                    <OfflineBanner />
 
-                  {/* Main Content Viewport */}
-                  <main className="flex-1 pb-16">
+                    {/* Global Navbar */}
+                    <Navbar onOpenSearch={() => setIsSearchOpen(true)} />
+
+                    {/* Main Content Viewport */}
+                    <main className="flex-1 pb-16">
                     <Routes>
                       <Route path="/" element={<HomePage onOpenSearch={() => setIsSearchOpen(true)} />} />
                       <Route path="/surahs" element={<SurahsPage />} />
@@ -90,6 +97,9 @@ export default function App() {
 
                   {/* Global Footer */}
                   <Footer />
+
+                  {/* PWA Custom Install Modal */}
+                  <InstallModal />
                   
                 </div>
               </Router>
@@ -97,6 +107,7 @@ export default function App() {
           </BookmarkProvider>
         </ReadingProvider>
       </AuthProvider>
-    </LanguageProvider>
+    </PWAProvider>
+  </LanguageProvider>
   );
 }
